@@ -18,5 +18,6 @@ Diseñé e implementé un laboratorio de ciberseguridad que funciona como un Cen
 
 ## 📁 Proyectos 
 
+- [SOC-Alert-Orchestrator](https://github.com/Lucasjavier708/SOC-Alert-Orchestrator.git) 
 - [SOC-Attack-Detection-Lab.](https://github.com/lucasjavier708/SOC-Attack-Detection-Lab.) 
 - [SIEM---Python](https://github.com/lucasjavier708/SIEM---Python) 
