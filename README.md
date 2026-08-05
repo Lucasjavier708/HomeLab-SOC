@@ -9,15 +9,37 @@
 ![Last Update](https://img.shields.io/badge/Last%20Update-July%202026-blue?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-orange?style=flat-square)
 
-##   🧪  HOMELAB / Security Operation Center - SOC 
+# 🧪 Homelab | Security Operations Center (SOC)
 
-Diseñé e implementé un laboratorio de ciberseguridad que funciona como un Centro de Operaciones de Seguridad (SOC), donde desarrollo proyectos, simulo escenarios reales de ciberseguridad y realizo tareas de monitoreo, detección, análisis, investigación y respuesta ante incidentes de seguridad, utilizando tecnologías como SIEM, IDS/IPS, firewalls y telemetría de endpoints, aplicando metodologías alineadas con las operaciones de un SOC. Asimismo, diseñé y administré la infraestructura de red del laboratorio, implementando la segmentación de la red, el direccionamiento IP, servicios de red y la interconexión de dispositivos para recrear un entorno empresarial seguro y funcional.
+Laboratorio de ciberseguridad diseñado para simular un entorno real de **Security Operations Center (SOC)**, donde desarrollo escenarios de seguridad enfocados en monitoreo, detección, análisis e investigación de incidentes.
+
+El laboratorio integra infraestructura de red, sistemas Windows/Linux, herramientas de seguridad y tecnologías de monitoreo, aplicando metodologías utilizadas en operaciones defensivas.
+
+También incluye la administración de la infraestructura de red, trabajando sobre segmentación, direccionamiento IP, servicios y conectividad entre dispositivos.
 
 -📍 **[Mira el Laboratorio que arme !!!](https://lucasjavier708.github.io/Mi-Pagina-Web/laboratorio.html)**
 
+---
 
-## 📁 Proyectos 
 
-- [SOC Automation Playbook](https://github.com/Lucasjavier708/SOC-Alert-Orchestrator.git) 
-- [Purple-Team-Case-Studies--HOMELAB/SOC.](https://github.com/lucasjavier708/SOC-Attack-Detection-Lab.) 
-- [SIEM---Python](https://github.com/lucasjavier708/SIEM---Python) 
+
+# 📁 Proyectos relacionados
+
+### 🛡️ SOC Automation Playbook
+Automatización de procesos orientados a operaciones SOC, gestión de alertas y respuesta ante eventos de seguridad.
+
+🔗 - [SOC Automation Playbook](https://github.com/Lucasjavier708/SOC-Alert-Orchestrator.git) 
+
+---
+
+### 🟣 Purple Team Case Studies - HOMELAB/SOC
+Escenarios prácticos donde se combinan técnicas ofensivas y defensivas para analizar ataques, detecciones y respuesta.
+
+🔗 [Purple-Team-Case-Studies--HOMELAB/SOC.](https://github.com/lucasjavier708/SOC-Attack-Detection-Lab.) 
+
+---
+
+### 🤖 SIEM desarrollado con Python
+Proyecto enfocado en procesamiento y análisis de eventos de seguridad 
+
+🔗 [SIEM---Python](https://github.com/lucasjavier708/SIEM---Python) 
