@@ -33,6 +33,11 @@ También incluye la administración de la infraestructura de red, trabajando sob
 
 <img width="5456" height="3064" alt="_DSC3443" src="https://github.com/user-attachments/assets/9d1b12aa-782a-4592-b358-0ca909701980" />
 
+<br>
+<br>
+
+<img width="1799" height="914" alt="Infra real" src="https://github.com/user-attachments/assets/e8fda890-9e7f-4c12-8d8a-0f90638b5139" />
+
 -----
 
 # 📁 Proyectos relacionados
