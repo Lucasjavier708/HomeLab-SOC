@@ -19,9 +19,21 @@ También incluye la administración de la infraestructura de red, trabajando sob
 
 -📍 **[Mira el Laboratorio que arme !!!](https://lucasjavier708.github.io/Mi-Pagina-Web/laboratorio.html)**
 
----
+-----
 
+<img width="5182" height="2134" alt="_DSC3423" src="https://github.com/user-attachments/assets/ce4467d2-a602-4f5e-9c58-fa7ce1ce0b41" />
 
+<br>
+<br>
+
+<img width="5051" height="2936" alt="_DSC3434" src="https://github.com/user-attachments/assets/01f05e78-b365-437b-acf1-650e4b97b66f" />
+
+<br>
+<br>
+
+<img width="5456" height="3064" alt="_DSC3443" src="https://github.com/user-attachments/assets/9d1b12aa-782a-4592-b358-0ca909701980" />
+
+-----
 
 # 📁 Proyectos relacionados
 
